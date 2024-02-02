@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1452421e5dd81584eaeed3f1e2bef610
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabMisilJefe: {fileID: 4946582691331248028, guid: 1e4762c51f913de4fbc07fa1f8bf927f, type: 3}
+  - prefabExplosionNave: {fileID: 6137091704018245426, guid: df81ddb3b742d3645b0188d0f91948e5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
